@@ -9,6 +9,18 @@ Linux ( <3 ) : [Download AppImage](https://github.com/thel0ner/es-localserver/re
 
 Windows the useless : [Download .exe setup](https://github.com/thel0ner/es-localserver/releases/download/1.0.0/windows-es-localserver.Setup.1.0.0.exe)
 
+# scrreenshots : 
+
+![alt text](https://raw.githubusercontent.com/thel0ner/es-localserver/master/demo/Screenshot%20from%202020-05-22%2016-28-19.png)
+
+![alt text](https://raw.githubusercontent.com/thel0ner/es-localserver/master/demo/Screenshot%20from%202020-05-22%2016-28-25.png)
+
+![alt text](https://raw.githubusercontent.com/thel0ner/es-localserver/master/demo/Screenshot%20from%202020-05-22%2016-28-49.png)
+
+![alt text](https://raw.githubusercontent.com/thel0ner/es-localserver/master/demo/Screenshot%20from%202020-05-22%2016-28-49.png)
+
+![alt text](https://raw.githubusercontent.com/thel0ner/es-localserver/master/demo/Screenshot%20from%202020-05-22%2016-28-57.png)
+
 # For building : 
 
 `git clone https://github.com/thel0ner/es-localserver.git `
