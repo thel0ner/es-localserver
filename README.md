@@ -17,7 +17,6 @@ Windows the useless : [Download .exe setup](https://github.com/thel0ner/es-local
 
 ![alt text](https://raw.githubusercontent.com/thel0ner/es-localserver/master/demo/Screenshot%20from%202020-05-22%2016-28-49.png)
 
-![alt text](https://raw.githubusercontent.com/thel0ner/es-localserver/master/demo/Screenshot%20from%202020-05-22%2016-28-49.png)
 
 ![alt text](https://raw.githubusercontent.com/thel0ner/es-localserver/master/demo/Screenshot%20from%202020-05-22%2016-28-57.png)
 
