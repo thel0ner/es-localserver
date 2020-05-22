@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "electron": "^9.0.0",
+    "electron-builder": "^22.6.1"
+  },
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "name": "es-localserver",
+  "version": "1.0.0",
+  "description": "share a directory with all of it's files and sub-directoies in your local network",
+  "main": "index.js",
+  "author": "thel0ner",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "electron-localstorage": "^1.0.5",
+    "ip": "^1.1.5",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "serve-index": "^1.9.1",
+    "serve-static": "^1.14.1",
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,13 @@
+@import "node_modules/bootstrap/dist/css/bootstrap.min.css";
+#Messenger {
+  position: absolute;
+  bottom: 3%;
+  left: 1.5%;
+}
+#ServerPanelErrors,
+#status,
+#logs,
+#shutdownServer,
+#shutdDownServerModal {
+  display: none;
+}
