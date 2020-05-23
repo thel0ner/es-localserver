@@ -1,4 +1,4 @@
-const { app, BrowserWindow } = require("electron");
+const { app, BrowserWindow, Menu } = require("electron");
 
 app.on(
     "ready",
@@ -15,7 +15,8 @@ app.on(
             }
         );
         win.loadFile("./index.html");
-        win.setResizable(false)
+        win.setResizable(false);
+        Menu.setApplicationMenu(null);
         // win.webContents.openDevTools();
     }
 );
