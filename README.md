@@ -5,9 +5,13 @@ Using this software, you can easily select a directory and share it with users o
 
 # Download 
 
-Linux ( <3 ) : [Download AppImage](https://github.com/thel0ner/es-localserver/releases/download/1.0.0/linux-es-localserver-1.0.0.AppImage)
+Linux x64 : [Download AppImage](https://github.com/thel0ner/es-localserver/releases/download/1.0.1/linux-x64-es-localserver-1.0.1.AppImage)
 
-Windows the useless : [Download .exe setup](https://github.com/thel0ner/es-localserver/releases/download/1.0.0/windows-es-localserver.Setup.1.0.0.exe)
+Linux ia32 : [Download ApImage](https://github.com/thel0ner/es-localserver/releases/download/1.0.1/linux-ia32-es-localserver-1.0.1-i386.AppImage)
+
+Windows x64 : [Download .exe setup](https://github.com/thel0ner/es-localserver/releases/download/1.0.1/windows-x64-es-localserver.Setup.1.0.1.exe)
+
+Windows ia32 : [Download .exe setup](https://github.com/thel0ner/es-localserver/releases/download/1.0.1/windows-ia32-es-localserver.Setup.1.0.1.exe)
 
 # scrreenshots : 
 
